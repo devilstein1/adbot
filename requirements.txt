@@ -1,0 +1,8 @@
+rich
+python-cfonts
+pytz
+Telethon==1.41.0
+requests
+telebot
+aiohttp
+ntplib
