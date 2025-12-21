@@ -1,46 +1,111 @@
-# **ADBOT** 🤖
+<div align="center">
+
+# 🚀 **ADBOT**
+
+### *Your Ultimate Telegram Advertising Automation Solution*
 
 ![ADBOT Banner](https://i.postimg.cc/VsVG1C9v/photo-5003730247119211346-y-(1).jpg)
 
----
-
-## 📖 About
-
-**ADBOT** is a premium Telegram advertising automation script designed to streamline your ad campaigns through your own bot. This powerful tool allows you to manage multiple Telegram sessions and run advertisements across numerous groups efficiently.
-
-### 🐍 Python Version Support
-
-Choose the version that matches your Python installation:
-
-- **`3.11/`** - Optimized for Python 3.11
-- **`3.12/`** - Optimized for Python 3.12  
-- **`3.13/`** - Optimized for Python 3.13
-
-### 📚 Tutorial Available
-
-New to ADBOT? Watch our comprehensive tutorial to get started!  
-**[Click Here To See The Tutorial](https://t.me/rejerk)** 📺
+[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rejerk)
+[![License](https://img.shields.io/badge/License-Full%20Ownership-success?style=for-the-badge)](https://t.me/rejerk)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://t.me/rejerk)
 
 ---
 
-## 🚀 How to Use
+### 📺 **[Watch Complete Tutorial](https://t.me/rejerk)** | 💬 **[Join Community](https://t.me/keped)**
 
-### Prerequisites
+</div>
 
-1. **Download Python** from the official website:  
-   👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
+---
 
-### Installation
+## 📋 **Table of Contents**
 
-#### Option 1: Automatic Installation (Recommended)
+- [About](#-about)
+- [Key Highlights](#-key-highlights)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Admin Features](#-admin-features)
+- [User Features](#-user-features)
+- [Advanced Capabilities](#-advanced-capabilities)
+- [Support](#-support--contact)
+
+---
+
+## 📖 **About**
+
+**ADBOT** is a cutting-edge, premium Telegram advertising automation platform that revolutionizes how you manage and execute ad campaigns. Built with enterprise-level architecture, this sophisticated bot enables seamless multi-account management and intelligent ad distribution across unlimited Telegram groups.
+
+### 🎯 **Why Choose ADBOT?**
+
+```
+✨ Fully Automated Ad Posting
+🔒 Advanced Anti-Ban Protection
+⚡ Zero-Lag Performance
+🎨 Complete Customization
+👑 You Own Everything
+```
+
+---
+
+## 🐍 **Python Version Compatibility**
+
+ADBOT supports multiple Python versions for maximum flexibility:
+
+| Version | Folder | Status |
+|---------|--------|--------|
+| 🟢 Python 3.11 | `3.11/` | ✅ Fully Supported |
+| 🟢 Python 3.12 | `3.12/` | ✅ Fully Supported |
+| 🟢 Python 3.13 | `3.13/` | ✅ Fully Supported |
+
+> **📌 Note:** Choose the folder matching your Python installation for optimal performance.
+
+---
+
+## ⭐ **Key Highlights**
+
+<div align="center">
+
+| Feature | Description |
+|---------|-------------|
+| 🤖 **Multi-Account** | Unlimited session support |
+| ⚡ **High Speed** | Parallel processing engine |
+| 🛡️ **Anti-Ban** | Smart protection algorithms |
+| 📊 **Analytics** | Real-time stats dashboard |
+| 🔧 **Customizable** | Full control over settings |
+| 💾 **Auto Backup** | Secure file management |
+
+</div>
+
+---
+
+## 🔧 **Installation**
+
+### **Prerequisites**
+
+Before installing ADBOT, ensure you have Python installed on your system.
+
+<div align="center">
+
+### **[⬇️ Download Python](https://www.python.org/downloads/)**
+
+</div>
+
+### **Step 1: Clone or Download**
+
+Download the ADBOT package and extract it to your desired location.
+
+### **Step 2: Install Dependencies**
+
+#### 🎯 **Method 1: Automatic (Recommended)**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-#### Option 2: Manual Installation
+#### 🔨 **Method 2: Manual Installation**
 
-Install the required dependencies individually:
+Install each package individually:
 
 ```bash
 pip install requests
@@ -52,140 +117,417 @@ pip install ntplib
 pip install aiohttp
 ```
 
-### Running the Bot
+---
 
-Simply execute the main script:
+## 🚀 **Quick Start**
+
+Once dependencies are installed, launch ADBOT with a single command:
 
 ```bash
 python main.py
 ```
 
-The bot will handle everything automatically! ✨
+**That's it!** ADBOT will initialize and guide you through the setup process automatically. ✨
+
+### 📖 **Need Help?**
+
+<div align="center">
+
+### **[📺 Watch Step-by-Step Tutorial](https://t.me/rejerk)**
+
+*Everything is explained in detail with live examples!*
+
+</div>
 
 ---
 
-## 📖 Usage Guide
+## 👑 **Admin Features**
 
-For detailed usage instructions and step-by-step guidance, please refer to our comprehensive tutorial:
+### **🎛️ Admin Control Panel** (`/admin`)
 
-**[📺 CLICK HERE - Watch Tutorial](https://t.me/rejerk)**
+As the bot owner, you have complete administrative authority with these powerful commands:
 
-Everything is fully explained with examples!
+<table>
+<tr>
+<td width="50%">
 
----
+#### 💎 **Premium Management**
+- Grant users unlimited ad posting access
+- Free users: 3-hour ad run limit
+- Premium users: Unlimited seamless ad posting
 
-## ✨ Features
+#### 🚫 **User Moderation**
+- **Ban User:** Block access instantly
+- **Unban User:** Restore user privileges
+- Full control over user permissions
 
-### 👑 Admin Panel - Full Control (`/admin`)
+</td>
+<td width="50%">
 
-As the bot owner, you have complete administrative access:
+#### 📊 **Analytics & Stats**
+- Total users count
+- Active/Banned users metrics
+- Real-time performance data
+- Comprehensive insights dashboard
 
-- **➕ Add Premium** - Grant users premium access for seamless, unlimited ad posting (Free users limited to 3-hour ad runs)
-- **🚫 Ban User** - Restrict users from accessing the bot
-- **✅ Unban User** - Restore access to previously banned users
-- **📊 Stats** - View comprehensive statistics including total users, banned users, and more
-- **👥 Add Admin** - Grant moderate access to trusted users
-- **💾 Save Files** - Create backups of important bot files
-- **🔧 Maintenance Mode** - Temporarily disable bot access during updates or troubleshooting
-- **📢 Force Channel** - Require users to join specific channels before using the bot
+#### 👥 **Admin Management**
+- Add moderators with limited access
+- Delegate responsibilities
+- Team collaboration features
 
-### 🎨 Customization Commands
+</td>
+</tr>
+</table>
 
-#### `/change` - Session Management
-Modify all your connected sessions simultaneously:
-- First Name
-- Last Name  
-- Bio
-- Profile Picture
+### **🔧 System Management**
 
-#### `/broad` - Broadcast System
-Send announcements and messages to all bot users instantly 📣
-
----
-
-## 👥 User Features
-
-### 🔐 Account Management
-
-- **Add Unlimited Accounts** - Connect as many Telegram sessions as needed
-- **My Accounts** - View and manage all connected accounts in one place
-- **Multi-Session Support** - Seamlessly switch between accounts
-
-### ⚙️ Settings & Configuration
-
-**Time Management:**
-- Customize the time gap between ad posts for natural-looking activity
-
-**Posting Modes:**
-- **Forward Mode** - Posts with "Forwarded from" tag
-- **Send Mode** - Clean copy-paste messages without forwarding tags
-
-**Account Selection:**
-- **Multi Mode** - Run ads from all connected accounts simultaneously
-- **Single Mode** - Use one random account for posting
-
-**Session Control:**
-- Select specific sessions to use or exclude from ad campaigns
-- Fine-tune which accounts participate in each campaign
-
-**Group Management:**
-- **Join Links** - Automatically join marketplace groups during setup
-- **Exclude Groups** - Prevent messages from being sent to specific groups
+```
+💾 Save Files      → Create backups of critical data
+🔧 Maintenance     → Enable maintenance mode during updates
+📢 Force Channel   → Require channel subscription before bot access
+```
 
 ---
 
-## 🛡️ Silent Features - What Makes ADBOT Special
+## 🎨 **Advanced Admin Commands**
 
-### 🔒 Advanced Anti-Ban System
-State-of-the-art protection mechanisms to keep your accounts safe and active.
+### **`/change` - Bulk Session Customization**
 
-### 📝 Smart Logging
-- Saves detailed logs to files instead of channels
-- Protects your privacy - no one can see what you posted
-- Saves precious time with organized records
+Transform all your connected sessions simultaneously:
 
-### 🔄 Auto-Error Recovery
-Intelligent error handling that attempts to resolve server issues automatically without interruption.
+- ✏️ **First Name** - Update display names
+- ✏️ **Last Name** - Modify surnames  
+- 📝 **Bio** - Change profile descriptions
+- 🖼️ **Profile Picture** - Update avatars
 
-### 💬 Forum Support
-Full compatibility with Telegram Forums alongside traditional groups.
+> *Changes apply to ALL connected accounts instantly!*
 
-### ⚡ Zero Lag Performance
-Highly optimized architecture for parallel ad posting without slowdowns.
+### **`/broad` - Broadcast System**
 
-### 🎯 White Label Ready
-Your name appears throughout - perfect for reselling with your brand!
-
----
-
-## 🤝 Support & Contact
-
-I'm always here to help! Whether you have feedback, queries, or feature requests, feel free to reach out:
-
-### 📱 Connect With Me
-
-- **Telegram:** [STEIN](https://t.me/rejerk) 💬
-- **Instagram:** [Crying_KIDZ](https://instagram.com/crying_kidz) 📸
-
-### 💬 Join Our Community
-
-Stay updated and connect with other ADBOT users:  
-**[@keped](https://t.me/keped)** - Join our group chat! 🎉
+```
+📣 Reach all users instantly
+📨 Send announcements
+🎯 Targeted messaging
+✅ Delivery confirmation
+```
 
 ---
 
-## 📜 License & Ownership
+## 👥 **User Features**
 
-**You are the complete owner of this bot.** Use it, customize it, or even resell it - the choice is yours! 🎁
+### **🔐 Multi-Account Management**
+
+<div align="center">
+
+| Feature | Description |
+|---------|-------------|
+| ➕ **Add Accounts** | Connect unlimited Telegram sessions |
+| 📱 **My Accounts** | View all connected accounts |
+| 🔄 **Easy Switching** | Seamless account transitions |
+| 🗑️ **Remove Accounts** | Clean account management |
+
+</div>
+
+---
+
+## ⚙️ **Settings & Configuration**
+
+### **⏱️ Time Management**
+
+Configure intelligent posting intervals:
+- Set custom time gaps between posts
+- Mimic natural human behavior
+- Reduce detection risk
+
+### **📤 Posting Modes**
+
+Choose your preferred posting style:
+
+```
+🔁 Forward Mode  → Posts with "Forwarded from" attribution
+📨 Send Mode     → Clean messages without forwarding tags
+```
+
+### **🎯 Account Selection**
+
+```
+👥 Multi Mode    → Use ALL connected accounts simultaneously
+🎲 Single Mode   → Random account selection for each post
+```
+
+### **🎛️ Session Control**
+
+Fine-tune your ad campaigns:
+- ✅ Enable/Disable specific sessions
+- 🎯 Target specific account groups
+- 🔧 Customize per-session settings
+
+### **🔗 Group Management**
+
+```
+➕ Join Links      → Auto-join marketplace groups
+🚫 Exclude Groups  → Blacklist specific groups
+📋 Group List      → Manage all connected groups
+```
+
+---
+
+## 🛡️ **Advanced Capabilities**
+
+### **🔒 Intelligent Anti-Ban System**
+
+<div align="center">
+
+```
+🧠 AI-Powered Detection Avoidance
+⏱️ Smart Timing Algorithms
+🔄 Automatic IP Rotation
+🛡️ Account Protection Layer
+```
+
+</div>
+
+Our state-of-the-art protection system keeps your accounts safe with:
+- Human-like behavior patterns
+- Adaptive timing mechanisms
+- Intelligent cooldown periods
+- Real-time threat detection
+
+---
+
+### **📝 Smart Logging System**
+
+```
+✅ File-based logging (not channels)
+🔒 Complete privacy protection
+⚡ Instant access to records
+📊 Organized data structure
+```
+
+**Benefits:**
+- No one can track your posts
+- Faster performance
+- Professional record keeping
+- Easy debugging
+
+---
+
+### **🔄 Auto-Error Recovery**
+
+```python
+if error_detected:
+    analyze_error()
+    apply_fix()
+    continue_operation()
+```
+
+**Features:**
+- Automatic error detection
+- Self-healing capabilities
+- Minimal downtime
+- Continuous operation
+
+---
+
+### **💬 Forum Support**
+
+```
+✅ Telegram Forums Compatible
+✅ Traditional Groups
+✅ Channels
+✅ Hybrid Posting
+```
+
+---
+
+### **⚡ Zero-Lag Architecture**
+
+<div align="center">
+
+| Component | Performance |
+|-----------|-------------|
+| 🔥 Parallel Processing | ✅ Enabled |
+| 🚀 Async Operations | ✅ Optimized |
+| 💾 Memory Management | ✅ Efficient |
+| 📡 Network Handling | ✅ Smart |
+
+</div>
+
+**Result:** Smooth, lag-free operation even with hundreds of accounts!
+
+---
+
+### **🎨 White Label Ready**
+
+```
+✨ Your brand, your name, everywhere
+💼 Perfect for reselling
+🎯 Complete customization
+👑 Full ownership rights
+```
+
+---
+
+## 💼 **Use Cases**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🏢 **Businesses**
+Promote products/services across multiple Telegram groups efficiently
+
+</td>
+<td align="center" width="33%">
+
+### 📱 **Agencies**
+Manage client campaigns with multi-account support
+
+</td>
+<td align="center" width="33%">
+
+### 💰 **Entrepreneurs**
+Scale your advertising operations automatically
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 **Support & Contact**
+
+<div align="center">
+
+### **We're Here to Help!** 💙
+
+Have questions, feedback, or feature requests? We'd love to hear from you!
+
+---
+
+### 📱 **Connect With Developer**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💬 **Telegram**
+[![Telegram](https://img.shields.io/badge/Contact-STEIN-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rejerk)
+
+**[Message Me](https://t.me/rejerk)**
+
+</td>
+<td align="center" width="50%">
+
+### 📸 **Instagram**
+[![Instagram](https://img.shields.io/badge/Follow-Crying__KIDZ-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crying_kidz)
+
+**[Follow Me](https://instagram.com/crying_kidz)**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 👥 **Join Our Community**
+
+<div align="center">
+
+[![Community](https://img.shields.io/badge/Join-Community%20Chat-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/keped)
+
+### **[@keped](https://t.me/keped)**
+
+*Connect with other ADBOT users, share tips, and get instant support!*
+
+</div>
+
+</div>
+
+---
+
+## 📜 **Ownership & License**
+
+<div align="center">
+
+### ✨ **Complete Ownership Rights**
+
+```
+✅ You are the FULL owner of this bot
+✅ Customize it as you wish
+✅ Rebrand and resell
+✅ No restrictions
+✅ Lifetime access
+```
+
+**Your Bot. Your Rules. Your Success.** 🎯
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Made with ❤️ by STEIN
+## 🌟 **Final Words**
 
-**Thank you for choosing ADBOT!** 🚀
+---
 
-*Your success is our priority*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Thank+You+For+Choosing+ADBOT!;Your+Success+Is+Our+Priority!" alt="Typing SVG" />
+
+---
+
+### ⭐ **Crafted with ❤️ by STEIN**
+
+```
+🎯 Precision Engineering
+💎 Premium Quality
+🚀 Maximum Performance
+```
+
+---
+
+### 📢 **We Value Your Feedback!**
+
+*Your feedback helps us improve and deliver better features.*
+
+**Please share your experience, suggestions, and feature requests!**
+
+<table>
+<tr>
+<td align="center">
+
+### ⭐ **Rate Us**
+Share your experience
+
+</td>
+<td align="center">
+
+### 💡 **Suggest Features**
+Help us grow
+
+</td>
+<td align="center">
+
+### 🐛 **Report Issues**
+We fix them fast
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔥 **Stay Updated!**
+
+[![Telegram](https://img.shields.io/badge/Updates-Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/rejerk)
+[![Community](https://img.shields.io/badge/Community-Join%20Now-0088cc?style=for-the-badge&logo=telegram)](https://t.me/keped)
+
+---
+
+**Made with 💚 in 2024 | ADBOT v1.0**
+
+*Empowering Your Telegram Advertising Journey* ✨
+
+---
 
 </div>
