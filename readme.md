@@ -39,7 +39,6 @@
 - [Advanced Capabilities](#-advanced-capabilities)
 - [Cool Features](#-cool-features)
 - [Support & Contact](#-support--contact)
-- [Reviews & Ratings](#-reviews--ratings)
 - [Developer](#-developer)
 
 ---
@@ -121,7 +120,7 @@ ADBOT offers dedicated optimization files for maximum compatibility:
 |---------|-------------|
 | 🤖 **Unlimited Accounts** | Connect infinite Telegram sessions |
 | ⚡ **Blazing Speed** | Advanced parallel processing |
-| 🛡️ **Smart Protection** | AI-powered anti-ban system |
+| 🛡️ **Smart Protection** | Anti-ban system |
 | 📊 **Real-Time Analytics** | Live statistics dashboard |
 | 🔧 **Full Control** | Deep customization options |
 | 💾 **Auto Backup** | Intelligent file management |
@@ -499,90 +498,6 @@ while True:
 
 ---
 
-## ⭐ **Reviews & Ratings**
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Your+Feedback+Matters!;Help+Us+Improve+ADBOT;Share+Your+Experience!" alt="Reviews" />
-
-### **Rate Your Experience**
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### ⭐
-**Poor**
-
-</td>
-<td align="center" width="20%">
-
-### ⭐⭐
-**Fair**
-
-</td>
-<td align="center" width="20%">
-
-### ⭐⭐⭐
-**Good**
-
-</td>
-<td align="center" width="20%">
-
-### ⭐⭐⭐⭐
-**Great**
-
-</td>
-<td align="center" width="20%">
-
-### ⭐⭐⭐⭐⭐
-**Excellent**
-
-</td>
-</tr>
-</table>
-
-### **Leave a Review**
-
-[![Contact](https://img.shields.io/badge/Leave%20Review-Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/rejerk)
-
-**Share your experience, suggestions, and feature requests with us!**
-
-We value every piece of feedback and continuously improve ADBOT based on YOUR input. 💙
-
----
-
-### 📢 **What Users Say**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💡 **Suggest**
-Request new features
-
-</td>
-<td align="center" width="33%">
-
-### 🐛 **Report**
-We fix issues fast
-
-</td>
-<td align="center" width="33%">
-
-### 🌟 **Review**
-Share your story
-
-</td>
-</tr>
-</table>
-
-*Your feedback drives innovation and helps us build the best Telegram advertising platform!*
-
-</div>
-
----
-
 ## 👨‍💻 **Developer**
 
 <div align="center">
@@ -611,6 +526,39 @@ Share your story
 ```
 
 **Your Bot. Your Rules. Your Success.** 🎯
+
+---
+
+### 📢 **We Value Your Feedback!**
+
+*Your feedback helps us improve and deliver better features*
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💡 **Suggest**
+Request features
+
+</td>
+<td align="center" width="33%">
+
+### 🐛 **Report**
+We fix fast
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 **Review**
+Share experience
+
+</td>
+</tr>
+</table>
+
+**Share your thoughts, suggestions, and feature requests!**
+
+We're constantly improving ADBOT based on YOUR feedback. Every comment matters! 💙
 
 ---
 
