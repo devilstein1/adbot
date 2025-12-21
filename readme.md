@@ -11,6 +11,9 @@
 [![License](https://img.shields.io/badge/License-Full%20Ownership-success?style=for-the-badge)](https://t.me/rejerk)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://t.me/rejerk)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyour-username%2FADBOT&label=Visitors&countColor=%2337d67a&style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-brightgreen?style=for-the-badge)
+
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Professional+Telegram+Advertising+Solution;Multi-Account+Management+System;Advanced+Anti-Ban+Protection;Zero-Lag+Performance+Engine;Your+Bot.+Your+Rules.+Your+Success!" alt="Typing SVG" />
@@ -27,6 +30,7 @@
 
 - [About](#-about)
 - [Key Highlights](#-key-highlights)
+- [Technologies Used](#-technologies-used)
 - [Python Version Support](#-python-version-support)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
@@ -34,8 +38,8 @@
 - [User Features](#-user-features)
 - [Advanced Capabilities](#-advanced-capabilities)
 - [Cool Features](#-cool-features)
-- [Use Cases](#-use-cases)
 - [Support & Contact](#-support--contact)
+- [Reviews & Ratings](#-reviews--ratings)
 - [Developer](#-developer)
 
 ---
@@ -77,17 +81,31 @@ Full customization
 
 ---
 
+## 💻 **Technologies Used**
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Telethon](https://img.shields.io/badge/Telethon-1.41-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.telethon.dev/)
+[![Async](https://img.shields.io/badge/AsyncIO-Enabled-green?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
+
+**Built with modern Python technologies for maximum performance and reliability**
+
+</div>
+
+---
+
 ## 🐍 **Python Version Support**
 
 ADBOT offers dedicated optimization files for maximum compatibility:
 
 <div align="center">
 
-| Version | Script File | Optimization | Status |
-|---------|-------------|--------------|--------|
-| 🔵 **Python 3.11** | `3.11.py` | ⚡ Speed Optimized | ✅ Fully Supported |
-| 🔵 **Python 3.12** | `3.12.py` | 🚀 Enhanced Performance | ✅ Fully Supported |
-| 🔵 **Python 3.13** | `3.13.py` | 💎 Latest Features | ✅ Fully Supported |
+| Version | Script File | Status |
+|---------|-------------|--------|
+| 🔵 **Python 3.11** | `3.11.py` | ✅ Fully Supported |
+| 🔵 **Python 3.12** | `3.12.py` | ✅ Fully Supported |
+| 🔵 **Python 3.13** | `3.13.py` | ✅ Fully Supported |
 
 </div>
 
@@ -318,7 +336,7 @@ Easy cleanup
 ```
 👥 Multi Mode    → ALL accounts
 🎲 Single Mode   → Random account
-🎯 Smart Mode    → AI selection
+🎯 Smart Mode    → Intelligent selection
 ⚡ Rotation Mode → Auto cycling
 ```
 
@@ -344,7 +362,7 @@ Easy cleanup
 ### **🔒 Anti-Ban Protection**
 
 ```
-🧠 AI Behavior Analysis
+🧠 Behavior Analysis
 ⏱️ Dynamic Timing
 🔄 Pattern Variation
 🛡️ Multi-Layer Protection
@@ -411,16 +429,6 @@ while True:
 🎯 Campaign Performance
 ```
 
-### **🤖 AI-Powered Tools**
-
-```
-🧠 Content Suggestions
-🎯 Smart Targeting
-📈 Engagement Predictions
-🔍 Trend Detection
-💡 Market Insights
-```
-
 ### **🔔 Notifications**
 
 ```
@@ -439,100 +447,6 @@ while True:
 📥 Easy Import/Export
 🔐 Encrypted Storage
 ```
-
-### **🎨 Themes**
-
-<div align="center">
-
-| Theme | Status |
-|-------|--------|
-| 🌙 **Dark Mode** | ✅ Available |
-| ☀️ **Light Mode** | ✅ Available |
-| 🌈 **Custom Colors** | ✅ Available |
-| 🎭 **Professional** | ✅ Available |
-
-</div>
-
-### **🛠️ Developer Tools**
-
-```
-🔌 API Access
-📚 Webhook Support
-🧪 Testing Sandbox
-📖 Documentation
-```
-
-### **🎁 Bonus Features**
-
-<table>
-<tr>
-<td align="center">
-
-### 📅 **Calendar**
-Visual scheduling
-
-</td>
-<td align="center">
-
-### 🎯 **Templates**
-Quick campaigns
-
-</td>
-<td align="center">
-
-### 📊 **Reports**
-PDF/Excel exports
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 **Use Cases**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🏢 **Businesses**
-Product launches & brand awareness
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 **Agencies**
-Client management & campaigns
-
-</td>
-<td align="center" width="33%">
-
-### 💰 **Entrepreneurs**
-Startup growth & lead gen
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-### 🛍️ **E-commerce**
-Product promotions & sales
-
-</td>
-<td align="center" width="33%">
-
-### 📱 **Influencers**
-Audience growth & engagement
-
-</td>
-<td align="center" width="33%">
-
-### 🎓 **Educators**
-Course promotion & reach
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -585,6 +499,90 @@ Course promotion & reach
 
 ---
 
+## ⭐ **Reviews & Ratings**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Your+Feedback+Matters!;Help+Us+Improve+ADBOT;Share+Your+Experience!" alt="Reviews" />
+
+### **Rate Your Experience**
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### ⭐
+**Poor**
+
+</td>
+<td align="center" width="20%">
+
+### ⭐⭐
+**Fair**
+
+</td>
+<td align="center" width="20%">
+
+### ⭐⭐⭐
+**Good**
+
+</td>
+<td align="center" width="20%">
+
+### ⭐⭐⭐⭐
+**Great**
+
+</td>
+<td align="center" width="20%">
+
+### ⭐⭐⭐⭐⭐
+**Excellent**
+
+</td>
+</tr>
+</table>
+
+### **Leave a Review**
+
+[![Contact](https://img.shields.io/badge/Leave%20Review-Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/rejerk)
+
+**Share your experience, suggestions, and feature requests with us!**
+
+We value every piece of feedback and continuously improve ADBOT based on YOUR input. 💙
+
+---
+
+### 📢 **What Users Say**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💡 **Suggest**
+Request new features
+
+</td>
+<td align="center" width="33%">
+
+### 🐛 **Report**
+We fix issues fast
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 **Review**
+Share your story
+
+</td>
+</tr>
+</table>
+
+*Your feedback drives innovation and helps us build the best Telegram advertising platform!*
+
+</div>
+
+---
+
 ## 👨‍💻 **Developer**
 
 <div align="center">
@@ -610,44 +608,9 @@ Course promotion & reach
 ✅ You OWN this bot completely
 ✅ Customize as you wish
 ✅ Rebrand and resell
-✅ No restrictions ever
-✅ Lifetime access included
 ```
 
 **Your Bot. Your Rules. Your Success.** 🎯
-
----
-
-### 📢 **We Value Your Feedback!**
-
-*Your feedback helps us improve and deliver better features*
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### ⭐ **Rate**
-Share experience
-
-</td>
-<td align="center" width="33%">
-
-### 💡 **Suggest**
-Request features
-
-</td>
-<td align="center" width="33%">
-
-### 🐛 **Report**
-We fix fast
-
-</td>
-</tr>
-</table>
-
-**Please share your thoughts, suggestions, and feature requests!**
-
-We're constantly improving ADBOT based on YOUR feedback. Every comment matters! 💙
 
 ---
 
@@ -662,7 +625,7 @@ We're constantly improving ADBOT based on YOUR feedback. Every comment matters! 
 
 ---
 
-**ADBOT v1.0 | Made with 💚 in 2024**
+**ADBOT v1.0 | Made with 💚 in 2025**
 
 *Empowering Your Telegram Advertising Journey* ✨
 
