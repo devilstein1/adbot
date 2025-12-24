@@ -1,8 +1,11 @@
+
 # ════════════════════
 __ENC_AUTHOR__ = "STEIN"
 __TELEGRAM__ = "@rejerk"
 __GROUP_CHAT__ = "@keped"
 # ════════════════════
+
+
 
 import sys
 import subprocess
