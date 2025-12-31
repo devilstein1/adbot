@@ -231,25 +231,21 @@ while True:
 
 ## 🆕 **Updates**
 
-**ADBOT keeps evolving! Latest updates from `updates.txt` are shown below. Navigate with arrows:**
+**ADBOT keeps evolving! Latest updates from `updates.txt` are listed below:**
 
 ```text
 Updates:
-1st Update ON: 01-Jan-2026
-Update logs: Initial release with full admin and user features.
-
-2nd Update ON: 05-Jan-2026
-Update logs: Anti-spam improvements and bug fixes.
-
-3rd Update ON: 10-Jan-2026
-Update logs: Dashboard visualization enhanced, multi-account rotation optimized.
+```
+```python
+# Python snippet to read updates from updates.txt
+txt_file = 'updates.txt'
+with open(txt_file, 'r') as f:
+    lines = f.readlines()
+for idx, line in enumerate(lines, start=1):
+    print(f'{idx}st Update: {line.strip()}')
 ```
 
-> Updates are **color-coded and scrollable** in the Telegram bot interface using inline buttons:  
-> - `⬅️` Previous update  
-> - `➡️` Next update  
-> - Only left arrow visible if at last update  
-> - Only right arrow visible if at first update  
+> Each line in `updates.txt` represents a new update. No date required. The README will show them as an ordered list.
 
 ---
 
