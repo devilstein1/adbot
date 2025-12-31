@@ -578,10 +578,3 @@ We're constantly improving ADBOT based on YOUR feedback. Every comment matters! 
 *Empowering Your Telegram Advertising Journey* ✨
 
 </div>
-
-
-
-
-
-
-rewrite full 
