@@ -8,23 +8,17 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rejerk)
-[![License](https://img.shields.io/badge/License-Full%20Ownership-success?style=for-the-badge)](https://t.me/rejerk)
+[![License](https://img.shields.io/badge/License-Premium-success?style=for-the-badge)](https://t.me/panteri)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://t.me/rejerk)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevilstein1%2Fadbot&label=VISITORS&countColor=%2337d67a&style=for-the-badge&labelColor=000000)
 ![Stars](https://img.shields.io/github/stars/devilstein1/adbot?style=for-the-badge&color=yellow&logo=github)
 ![Forks](https://img.shields.io/github/forks/devilstein1/adbot?style=for-the-badge&color=orange&logo=github)
-![Issues](https://img.shields.io/github/issues/devilstein1/adbot?style=for-the-badge&color=red&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/devilstein1/adbot?style=for-the-badge&color=blue&logo=github)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-brightgreen?style=for-the-badge)
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Professional+Telegram+Advertising+Solution;Multi-Account+Management+System;Advanced+Anti-Ban+Protection;Zero-Lag+Performance+Engine;Your+Bot.+Your+Rules.+Your+Success!" alt="Typing SVG" />
-
----
-
-### 📺 **[Watch Tutorial](https://t.me/rejerk)** | 💬 **[Join Community](https://t.me/keped)** | 👨‍💻 **[Contact Dev](https://t.me/rejerk)** | 💎 **[Buy Premium](https://t.me/panteri)**
+### 📺 **[Tutorial](https://t.me/rejerk)** | 💬 **[Community](https://t.me/keped)** | 👨‍💻 **[Developer](https://t.me/rejerk)** | 💎 **[Buy Access](https://t.me/panteri)**
 
 </div>
 
@@ -34,73 +28,39 @@
 
 - [About](#-about)
 - [Key Highlights](#-key-highlights)
-- [Technologies Used](#-technologies-used)
+- [Technologies](#-technologies)
 - [Python Version Support](#-python-version-support)
 - [Installation](#-installation)
-  - [Windows/Linux/Mac](#-windowslinuxmac-installation)
-  - [Termux (Android)](#-termux-android-installation)
 - [Pricing Plans](#-pricing-plans)
 - [Quick Start](#-quick-start)
 - [Admin Features](#-admin-features)
 - [User Features](#-user-features)
 - [Advanced Capabilities](#-advanced-capabilities)
-- [Cool Features](#-cool-features)
+- [Key Features](#-key-features)
 - [Support & Contact](#-support--contact)
-- [Developer](#-developer)
 
 ---
 
 ## 📖 **About**
 
-**ADBOT** is a cutting-edge, enterprise-grade Telegram advertising automation platform that revolutionizes digital marketing campaigns. Engineered with military-grade security and lightning-fast performance, ADBOT empowers businesses and entrepreneurs to scale their advertising operations effortlessly across unlimited Telegram groups.
+ADBOT is a professional Telegram advertising automation platform designed for efficient multi-account management and automated posting across Telegram groups. Built with Python and Telethon, it offers reliable performance for advertising campaigns.
 
-### 🎯 **Why ADBOT?**
+### 🎯 **Core Benefits**
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ⚡ **Speed**
-Parallel processing
-Sub-second response
-
-</td>
-<td align="center" width="25%">
-
-### 🛡️ **Security**
-Military-grade
-Anti-ban system
-
-</td>
-<td align="center" width="25%">
-
-### 🎨 **Flexibility**
-Full customization
-Your rules
-
-</td>
-<td align="center" width="25%">
-
-### 👑 **Ownership**
-100% yours
-Lifetime access
-
-</td>
-</tr>
-</table>
+- ⚡ Fast parallel processing
+- 🛡️ Anti-ban protection system
+- 🎨 Flexible customization
+- 👑 Complete control over operations
 
 ---
 
-## 💻 **Technologies Used**
+## 💻 **Technologies**
 
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Telethon](https://img.shields.io/badge/Telethon-1.41-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.telethon.dev/)
 [![Async](https://img.shields.io/badge/AsyncIO-Enabled-green?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
-[![Rich](https://img.shields.io/badge/Rich-Terminal-purple?style=for-the-badge)](https://github.com/Textualize/rich)
-
-**Built with modern Python technologies for maximum performance and reliability**
 
 </div>
 
@@ -108,63 +68,47 @@ Lifetime access
 
 ## 🐍 **Python Version Support**
 
-ADBOT offers dedicated optimization files for maximum compatibility:
-
 <div align="center">
 
-| Version | Script File | Status | Performance |
-|---------|-------------|--------|-------------|
-| 🔵 **Python 3.11** | `3.11.py` | ✅ Fully Supported | ⚡ Optimized |
-| 🔵 **Python 3.12** | `3.12.py` | ✅ Fully Supported | ⚡ Optimized |
-| 🔵 **Python 3.13** | `3.13.py` | ✅ Fully Supported | ⚡ Optimized |
+| Version | Status |
+|---------|--------|
+| Python 3.11 | ✅ Supported |
+| Python 3.12 | ✅ Supported |
+| Python 3.13 | ✅ Supported |
+
+Use the appropriate version file: `python 3.11.py` or `python 3.12.py` or `python 3.13.py`
 
 </div>
-
-> **💡 Pro Tip:** Run the script file matching your Python version for optimal performance!
 
 ---
 
 ## ⭐ **Key Highlights**
 
-<div align="center">
-
-| Feature | Description | Performance |
-|---------|-------------|-------------|
-| 🤖 **Unlimited Accounts** | Connect infinite Telegram sessions | 1000+ simultaneous |
-| ⚡ **Blazing Speed** | Advanced parallel processing | 10,000+ msgs/hour |
-| 🛡️ **Smart Protection** | Anti-ban system with AI | 99.9% safety |
-| 📊 **Real-Time Analytics** | Live statistics dashboard | Sub-second updates |
-| 🔧 **Full Control** | Deep customization options | Unlimited flexibility |
-| 💾 **Auto Backup** | Intelligent file management | Zero data loss |
-| 🌐 **Forum Ready** | Native Telegram Forums support | Full compatibility |
-| 🎯 **Precision Targeting** | Advanced group selection | Smart filtering |
-
-</div>
+| Feature | Description |
+|---------|-------------|
+| 🤖 **Unlimited Accounts** | Connect multiple Telegram sessions |
+| ⚡ **Fast Processing** | Parallel message handling |
+| 🛡️ **Anti-Ban System** | Smart protection mechanisms |
+| 📊 **Analytics** | Real-time statistics |
+| 🔧 **Customizable** | Full control over settings |
+| 💾 **Auto Backup** | Automatic file management |
+| 🌐 **Forum Support** | Telegram Forums compatible |
+| 🎯 **Group Targeting** | Advanced filtering options |
 
 ---
 
 ## 🔧 **Installation**
 
-### 🖥️ **Windows/Linux/Mac Installation**
+### **Windows/Linux/Mac**
 
-#### **Prerequisites**
+#### Prerequisites
 
-<div align="center">
+Download and install Python from [python.org](https://www.python.org/downloads/)
 
-### **[⬇️ Download Python](https://www.python.org/downloads/)**
-
-[![Python](https://img.shields.io/badge/Download-Python-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-
-</div>
-
----
-
-#### **Installation Methods**
-
-##### 🎯 **Method 1: One-Click Install (Recommended)**
+#### Installation
 
 ```bash
-# Clone the repository
+# Clone repository
 git clone https://github.com/devilstein1/adbot.git
 cd adbot
 
@@ -172,89 +116,21 @@ cd adbot
 pip install -r requirements.txt
 ```
 
-##### 🔨 **Method 2: Manual Installation**
+Or install manually:
 
 ```bash
-# Install packages one by one
-pip install rich
-pip install python-cfonts
-pip install pytz
-pip install Telethon==1.41.0
-pip install requests
-pip install telebot
-pip install aiohttp
-pip install ntplib
+pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib
 ```
 
 ---
 
-### 📱 **Termux (Android) Installation**
+### **Termux (Android)**
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Run+ADBOT+On+Your+Android+Device!;No+PC+Required!;Complete+Mobile+Solution!" alt="Termux" />
-
-</div>
-
-#### 🚀 **Quick Install (Single Command)**
+#### Single Command Installation
 
 ```bash
 pkg update && pkg upgrade -y && pkg install python git -y && pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib && git clone https://github.com/devilstein1/adbot.git && cd adbot && python main.py
 ```
-
-#### 📝 **Step-by-Step Installation**
-
-```bash
-# Update Termux packages
-pkg update
-pkg upgrade -y
-
-# Install Python and Git
-pkg install python -y
-pkg install git -y
-
-# Install Python dependencies
-pip install rich
-pip install python-cfonts
-pip install pytz
-pip install Telethon==1.41.0
-pip install requests
-pip install telebot
-pip install aiohttp
-pip install ntplib
-
-# Clone ADBOT repository
-git clone https://github.com/devilstein1/adbot.git
-
-# Navigate to ADBOT directory
-cd adbot
-
-# Run ADBOT
-python main.py
-```
-
-#### 🔄 **Alternative Manual Setup**
-
-```bash
-# Setup and install
-pkg update && pkg upgrade -y
-pkg install python -y
-
-# Create directory
-mkdir adbot
-cd adbot
-
-# Download main script
-curl -o main.py https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/main.py
-
-# Install dependencies
-pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib
-
-# Run the bot
-python main.py
-```
-
-> **📌 Note:** For Termux users, ensure you have stable internet connection during installation. The process may take 2-5 minutes depending on your connection speed.
 
 ---
 
@@ -262,9 +138,9 @@ python main.py
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Cheapest+In+The+Market!;Premium+Quality+%7C+Affordable+Price;Lifetime+Value+Guaranteed!" alt="Pricing" />
+### **📦 Premium File Access**
 
-### **🔥 Special Launch Offers - Limited Time!**
+Get full access to ADBOT with premium features and dedicated support.
 
 </div>
 
@@ -272,16 +148,8 @@ python main.py
 <tr>
 <td align="center" width="33%">
 
-### 📦 **STARTER**
+### **1 Week**
 ## **$6**
-### 1 Week Access
-
-✅ Full Bot Access
-✅ Unlimited Accounts
-✅ Anti-Ban Protection
-✅ 24/7 Support
-✅ All Features
-✅ Free Updates
 
 <div align="center">
 
@@ -289,21 +157,11 @@ python main.py
 
 </div>
 
-*Perfect for testing*
-
 </td>
 <td align="center" width="33%">
 
-### 🚀 **POPULAR**
+### **1 Month**
 ## **$18**
-### 1 Month Access
-
-✅ Everything in Starter
-✅ Priority Support
-✅ Extended Access
-✅ Advanced Features
-✅ Custom Settings
-✅ Detailed Analytics
 
 <div align="center">
 
@@ -311,21 +169,11 @@ python main.py
 
 </div>
 
-*Most popular choice*
-
 </td>
 <td align="center" width="33%">
 
-### 👑 **PREMIUM**
+### **3 Months**
 ## **$43**
-### 3 Months Access
-
-✅ Everything in Popular
-✅ VIP Support
-✅ Lifetime Updates
-✅ Custom Features
-✅ White Label Rights
-✅ Marketing Materials
 
 <div align="center">
 
@@ -333,44 +181,19 @@ python main.py
 
 </div>
 
-*Best value for money*
-
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-### 💰 **Why Our Pricing?**
+**All plans include complete file access, all features, and full support**
 
-| 🏆 Benefit | 📊 Value |
-|-----------|----------|
-| **Cheapest in Market** | 70% less than competitors |
-| **No Hidden Fees** | One-time payment only |
-| **Money-Back Guarantee** | 7-day refund policy |
-| **Free Updates** | Lifetime access to updates |
-| **24/7 Support** | Always here to help |
+### 🆓 **Open Source Version Available**
 
----
+Basic version available for free on GitHub. Premium access includes advanced features and priority support.
 
-### 🎁 **Bonus Features for All Plans**
-
-```
-🎯 Free Setup Assistance
-📚 Complete Documentation
-🎓 Video Tutorials
-💬 Community Access
-🔧 Technical Support
-📊 Analytics Dashboard
-```
-
----
-
-### 📞 **Need Custom Plan?**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Contact+Us+For+Enterprise+Solutions!;Custom+Features+Available!;Volume+Discounts+Offered!" alt="Custom" />
-
-[![Contact](https://img.shields.io/badge/Contact_For_Custom-Enterprise_Solutions-blueviolet?style=for-the-badge&logo=telegram)](https://t.me/panteri?text=Hi!%20I%20need%20a%20custom%20ADBOT%20plan)
+**Cheapest premium access in the market**
 
 </div>
 
@@ -378,123 +201,64 @@ python main.py
 
 ## 🚀 **Quick Start**
 
-Launch ADBOT with a single command:
-
 ```bash
-# For Python 3.11
-python 3.11.py
-
-# For Python 3.12
-python 3.12.py
-
-# For Python 3.13
-python 3.13.py
-
-# Or simply
+# Run ADBOT
 python main.py
+
+# Or use version-specific file
+python 3.11.py  # For Python 3.11
+python 3.12.py  # For Python 3.12
+python 3.13.py  # For Python 3.13
 ```
-
-<div align="center">
-
-✨ **ADBOT initializes automatically!** ✨
-
-### **[📺 Watch Full Tutorial](https://t.me/rejerk)**
-
-</div>
 
 ---
 
 ## 👑 **Admin Features**
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Complete+Administrative+Control;Powerful+Management+Tools;Your+Kingdom%2C+Your+Rules!" alt="Admin Typing" />
-
-</div>
-
 ### **🎛️ Admin Panel** (`/admin`)
 
-<table>
-<tr>
-<td width="50%">
-
 #### 💎 **Premium Management**
-- Grant unlimited ad posting
+- Grant unlimited posting
 - Free users: 3-hour limit
 - Premium: Unlimited access
 - Flexible subscriptions
-- Auto-renewal system
 
 #### 🚫 **User Moderation**
-- **Ban User** - Block access instantly
-- **Unban User** - Restore privileges
-- Track moderation history
+- Ban/Unban users
+- Track history
 - Automated notifications
-- Bulk actions support
-
-</td>
-<td width="50%">
 
 #### 📊 **Analytics Dashboard**
 - Real-time user count
 - Banned users metrics
-- Premium users tracking
+- Premium tracking
 - Growth statistics
-- Revenue reports
-- Engagement analytics
 
 #### 👥 **Admin Management**
-- Add multiple moderators
-- Role-based access control
+- Add moderators
+- Role-based access
 - Activity logging
-- Secure delegation
-- Permission management
-
-</td>
-</tr>
-</table>
 
 ### **🔧 System Tools**
 
-```
-💾 Save Files     → Automatic backups every hour
-🔧 Maintenance    → Safe update mode with zero downtime
-📢 Force Channel  → Require subscriptions before access
-📝 Logs Manager   → Debug efficiently with detailed logs
-🔔 Notifications  → Custom alert system
-🎨 Customization  → Personalize bot interface
-```
-
----
+- 💾 Automatic backups
+- 🔧 Maintenance mode
+- 📢 Force channel subscription
+- 📝 Debug logs
 
 ### **`/change` - Mass Session Update**
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Transform+All+Sessions+Instantly;Bulk+Management+Power!" alt="Change Typing" />
-
-</div>
-
-```
-✏️ First Name      → Mass rename all accounts
-✏️ Last Name       → Update surnames in bulk
-📝 Bio             → Change all bios simultaneously
-🖼️ Profile Picture → Bulk avatar updates
-📞 Phone Display   → Show/hide numbers
-🔒 Privacy Settings→ Bulk privacy controls
-```
+- ✏️ First Name
+- ✏️ Last Name
+- 📝 Bio
+- 🖼️ Profile Picture
 
 ### **`/broad` - Broadcast System**
 
-```
-📣 Reach ALL users instantly
-📨 Rich media support (photos, videos, files)
-🎯 Scheduled broadcasts with timezone support
-📊 Delivery tracking with read receipts
-✅ Success/failure reports
-📈 Engagement metrics
-🎨 Custom formatting options
-```
+- 📣 Reach all users
+- 📨 Rich media support
+- 🎯 Scheduled broadcasts
+- 📊 Delivery tracking
 
 ---
 
@@ -502,157 +266,82 @@ python main.py
 
 ### **🔐 Multi-Account Management**
 
-<table>
-<tr>
-<td align="center" width="25%">
+- ➕ Add unlimited sessions
+- 📱 View all accounts
+- 🔄 Quick switching
+- 🗑️ Easy removal
 
-### ➕ **Add**
-Unlimited sessions
-Easy setup
+### **⚙️ Settings**
 
-</td>
-<td align="center" width="25%">
+#### **⏱️ Time Management**
+- Custom post intervals
+- Human-like timing
+- Schedule management
+- Night mode
 
-### 📱 **View**
-All accounts
-Status tracking
+#### **📤 Posting Modes**
 
-</td>
-<td align="center" width="25%">
+| Mode | Description |
+|------|-------------|
+| 🔁 Forward | With attribution |
+| 📨 Send | Clean messages |
+| 🎭 Stealth | No attribution |
 
-### 🔄 **Switch**
-Quick transitions
-Seamless switching
+#### **🎯 Account Selection**
 
-</td>
-<td align="center" width="25%">
+- 👥 Multi Mode - All accounts
+- 🎲 Single Mode - Random account
+- 🎯 Smart Mode - Intelligent selection
+- ⚡ Rotation Mode - Auto cycling
 
-### 🗑️ **Remove**
-Easy cleanup
-Safe deletion
+#### **🔗 Group Management**
 
-</td>
-</tr>
-</table>
-
----
-
-## ⚙️ **Settings**
-
-### **⏱️ Time Management**
-- Custom post intervals (5s - 24h)
-- Human-like timing patterns
-- Schedule management with calendar
-- Night mode (pause during sleep hours)
-- Weekend scheduling
-- Holiday detection
-
-### **📤 Posting Modes**
-
-| Mode | Description | Use Case |
-|------|-------------|----------|
-| 🔁 **Forward** | With "Forwarded from" tag | Attribution needed |
-| 📨 **Send** | Clean messages, no attribution | Professional look |
-| 🎭 **Stealth** | Invisible attribution | Maximum discretion |
-| 🎯 **Smart** | AI decides best mode | Automated optimization |
-
-### **🎯 Account Selection**
-
-```
-👥 Multi Mode    → ALL accounts simultaneously
-🎲 Single Mode   → Random account per message
-🎯 Smart Mode    → Intelligent selection based on performance
-⚡ Rotation Mode → Auto cycling for even distribution
-📊 Analytics Mode→ Best performing accounts first
-```
-
-### **🔗 Group Management**
-
-```
-➕ Auto-Join         → Join marketplaces automatically
-🚫 Exclude Groups    → Blacklist unwanted targets
-📊 Track Performance → Monitor engagement rates
-⚡ Bulk Operations   → Manage hundreds at once
-🎯 Smart Targeting   → AI-powered group selection
-📈 Growth Tracking   → Monitor your reach
-```
+- ➕ Auto-join groups
+- 🚫 Exclude groups
+- 📊 Track performance
+- ⚡ Bulk operations
 
 ---
 
 ## 🛡️ **Advanced Capabilities**
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Military-Grade+Technology;Enterprise-Level+Features;Unmatched+Performance!" alt="Advanced Typing" />
-
-</div>
-
 ### **🔒 Anti-Ban Protection**
 
-```
-🧠 Behavior Analysis      → Mimics human patterns
-⏱️ Dynamic Timing         → Randomized intervals
-🔄 Pattern Variation      → Never repeat exactly
-🛡️ Multi-Layer Protection → 5-stage safety system
-🎭 Fingerprint Masking    → Hide bot signatures
-🌐 Proxy Support          → Route through different IPs
-📊 Risk Assessment        → Real-time safety scoring
-```
+- Smart behavior patterns
+- Dynamic timing
+- Pattern variation
+- Multi-layer protection
+- Proxy support
 
-### **📝 Smart Logging**
+### **📝 Logging System**
 
-```
-✅ File-based system        → No database needed
-🔒 Complete privacy         → Local storage only
-⚡ Lightning-fast access    → Instant log retrieval
-📊 Structured data          → JSON format
-💾 Auto backups             → Daily automated saves
-🔍 Search functionality     → Find logs quickly
-📈 Analytics integration    → Track everything
-```
+- File-based logging
+- Complete privacy
+- Fast access
+- Structured data
+- Automatic backups
 
 ### **🔄 Auto-Recovery**
 
-```python
-# Built-in resilience system
-while True:
-    try:
-        run_campaign()
-    except NetworkError:
-        reconnect()
-    except SessionExpired:
-        refresh_session()
-    except Exception:
-        auto_fix()
-        log_error()
-        notify_admin()
-        continue()
-```
+- Automatic reconnection
+- Session refresh
+- Error handling
+- Admin notifications
 
 ### **💬 Forum Support**
 
 - Native topic support
 - Thread management
-- Automatic topic detection
-- Full backward compatibility
-- Forum-specific features
+- Full compatibility
 
-### **⚡ Performance Metrics**
+### **⚡ Performance**
 
-<div align="center">
-
-| Metric | Performance | Industry Average |
-|--------|-------------|------------------|
-| 🔥 **Accounts** | 1000+ simultaneous | 50-100 |
-| 📨 **Messages** | 10,000+ per hour | 500-1000 |
-| ⚡ **Uptime** | 99.9% reliable | 95% |
-| 🚀 **Response** | Sub-second | 2-5 seconds |
-| 💾 **Memory** | < 100MB | 500MB+ |
-| 🔋 **CPU Usage** | < 10% | 40-60% |
-
-**🏆 ADBOT outperforms competitors by 10x**
-
-</div>
+| Metric | Capability |
+|--------|-----------|
+| Accounts | 1000+ simultaneous |
+| Messages | 10,000+ per hour |
+| Uptime | 99.9% reliability |
+| Response | Sub-second |
 
 ---
 
@@ -726,14 +415,13 @@ while True:
 
 ---
 
-## 📊 **Statistics & Analytics**
+## 📊 **Statistics**
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/Active_Users-5000%2B-brightgreen?style=for-the-badge)
-![Messages Sent](https://img.shields.io/badge/Messages_Sent-10M%2B-blue?style=for-the-badge)
-![Success Rate](https://img.shields.io/badge/Success_Rate-99.9%25-success?style=for-the-badge)
-![Satisfaction](https://img.shields.io/badge/User_Satisfaction-98%25-yellow?style=for-the-badge)
+![Active Users](https://img.shields.io/badge/Active_Users-Growing-brightgreen?style=for-the-badge)
+![Success Rate](https://img.shields.io/badge/Success_Rate-High-success?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-blue?style=for-the-badge)
 
 </div>
 
@@ -855,20 +543,20 @@ while True:
 
 ---
 
-### 📜 **Full Ownership & Rights**
+### 📜 **Access & Usage Rights**
 
 ```
-✅ You OWN this bot completely
-✅ Full source code access
-✅ Customize as you wish
-✅ Rebrand and resell
-✅ No restrictions
-✅ Lifetime updates included
-✅ Commercial use allowed
-✅ White label options
+✅ Personal use license
+✅ Run on your accounts
+✅ Unlimited campaigns
+✅ No usage restrictions
+✅ Regular updates
+✅ Technical support
+✅ Community access
+✅ Priority assistance
 ```
 
-**Your Bot. Your Rules. Your Success.** 🎯
+**Your Access. Your Campaigns. Your Success.** 🎯
 
 ---
 
@@ -879,17 +567,17 @@ while True:
 <td width="50%">
 
 #### ✨ **Technical Excellence**
-- Clean, maintainable code
-- Modern Python standards
-- Security best practices
-- Optimized performance
+- Reliable performance
+- Modern technology
+- Security focused
+- Optimized speed
 - Regular updates
 
 #### 💡 **Innovation**
 - Latest features
-- Cutting-edge tech
-- Future-proof design
-- Scalable architecture
+- User-friendly
+- Efficient design
+- Proven results
 
 </td>
 <td width="50%">
@@ -899,7 +587,15 @@ while True:
 - Fast response time
 - Expert guidance
 - Community help
-- Documentation
+- Clear documentation
 
 #### 💰 **Value**
-- Affordable
+- Affordable pricing
+- Best in market
+- No hidden costs
+- Money-back guarantee
+- Flexible plans
+
+</td>
+</tr>
+</table>
