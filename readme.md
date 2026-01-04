@@ -108,18 +108,17 @@ Download and install Python from [python.org](https://www.python.org/downloads/)
 #### Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/devilstein1/adbot.git
-cd adbot
-
 # Install dependencies
-pip install -r requirements.txt
-```
-
-Or install manually:
-
-```bash
 pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib
+
+# Download main script
+curl -o main.py https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/main.py
+
+# Download links file
+curl -o links.txt https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/links.txt
+
+# Run ADBOT
+python main.py
 ```
 
 ---
@@ -129,7 +128,7 @@ pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp nt
 #### Single Command Installation
 
 ```bash
-pkg update && pkg upgrade -y && pkg install python git -y && pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib && git clone https://github.com/devilstein1/adbot.git && cd adbot && python main.py
+pkg update && pkg upgrade -y && pkg install python -y && pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib && curl -o main.py https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/main.py && curl -o links.txt https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/links.txt && python main.py
 ```
 
 ---
