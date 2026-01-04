@@ -128,7 +128,7 @@ python main.py
 #### Single Command Installation
 
 ```bash
-pkg update && pkg upgrade -y && pkg install python -y && pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib && curl -o main.py https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/main.py && curl -o links.txt https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/links.txt && python main.py
+pkg update && pkg upgrade -y && pkg install python -y && pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib && rm -rf adbot && mkdir adbot && cd adbot && curl -o main.py https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/main.py && curl -o links.txt https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/links.txt && python main.py
 ```
 
 ---
