@@ -18,6 +18,14 @@
 
 ---
 
+### 🎉 **FREE TRIAL - Valid Until January 14, 2026!** 🎉
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Try+ADBOT+FREE+Until+Jan+14%2C+2026!;No+Payment+Required;Full+Features+Access;Limited+Time+Offer!" alt="Free Trial" />
+
+**Test all premium features for FREE - No credit card required!**
+
+---
+
 ### 📺 **[Tutorial](https://t.me/rejerk)** | 💬 **[Community](https://t.me/keped)** | 👨‍💻 **[Developer](https://t.me/rejerk)** | 💎 **[Buy Access](https://t.me/panteri)**
 
 </div>
@@ -27,6 +35,7 @@
 ## 📋 **Table of Contents**
 
 - [About](#-about)
+- [Free Trial](#-free-trial)
 - [Key Highlights](#-key-highlights)
 - [Technologies](#-technologies)
 - [Python Version Support](#-python-version-support)
@@ -51,6 +60,33 @@ ADBOT is a professional Telegram advertising automation platform designed for ef
 - 🛡️ Anti-ban protection system
 - 🎨 Flexible customization
 - 👑 Complete control over operations
+
+---
+
+## 🎁 **Free Trial**
+
+<div align="center">
+
+### **🆓 Try ADBOT FREE Until January 14, 2026**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Access+to+All+Features;No+Credit+Card+Required;Experience+Premium+Quality;Limited+Time+Opportunity!" alt="Trial Benefits" />
+
+```
+✨ Full Premium Features      → Every tool unlocked
+🚀 Unlimited Accounts         → No restrictions
+⚡ All Advanced Functions     → Complete access
+📊 Full Analytics Suite       → Professional insights
+🛡️ Anti-Ban Protection        → Maximum security
+💬 Priority Support           → Get help instantly
+📚 Complete Documentation     → Learn everything
+🎯 No Limitations             → Full power
+```
+
+**Experience the difference before committing!**
+
+### **Trial ends January 14, 2026 - Start now!**
+
+</div>
 
 ---
 
@@ -125,10 +161,18 @@ python main.py
 
 ### **Termux (Android)**
 
-#### Single Command Installation
+#### Single Command Installation (First Time)
 
 ```bash
 pkg update && pkg upgrade -y && pkg install python -y && pip install rich python-cfonts pytz Telethon==1.41.0 requests telebot aiohttp ntplib && rm -rf adbot && mkdir adbot && cd adbot && curl -o main.py https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/main.py && curl -o links.txt https://raw.githubusercontent.com/devilstein1/adbot/refs/heads/main/links.txt && python main.py
+```
+
+#### Running After Installation
+
+If ADBOT is already installed, simply use:
+
+```bash
+cd adbot && python main.py
 ```
 
 ---
@@ -140,6 +184,8 @@ pkg update && pkg upgrade -y && pkg install python -y && pip install rich python
 ### **📦 Premium File Access**
 
 Get full access to ADBOT with premium features and dedicated support.
+
+### **🎁 FREE TRIAL UNTIL JANUARY 14, 2026**
 
 </div>
 
@@ -194,6 +240,8 @@ Basic version available for free on GitHub. Premium access includes advanced fea
 
 **Cheapest premium access in the market**
 
+### 🎉 **Try FREE Until January 14, 2026 - No Payment Required!**
+
 </div>
 
 ---
@@ -208,6 +256,12 @@ python main.py
 python 3.11.py  # For Python 3.11
 python 3.12.py  # For Python 3.12
 python 3.13.py  # For Python 3.13
+```
+
+### **Quick Run on Termux (Already Installed)**
+
+```bash
+cd adbot && python main.py
 ```
 
 ---
@@ -598,3 +652,49 @@ python 3.13.py  # For Python 3.13
 </td>
 </tr>
 </table>
+
+---
+
+### 🎉 **Special Offer**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=FREE+TRIAL+UNTIL+JAN+14%2C+2026!;Try+All+Features+Free;No+Payment+Required;Limited+Time+Only!" alt="Special Offer" />
+
+### **🎁 Experience ADBOT FREE Until January 14, 2026**
+
+**Test drive all premium features with zero commitment!**
+
+```
+✨ Full Feature Access
+🚀 No Limitations
+💎 Premium Support
+📊 Complete Analytics
+🛡️ Anti-Ban Protection
+⚡ Unlimited Accounts
+```
+
+**After trial, choose the plan that fits your needs or continue with the free version!**
+
+[![Start Free Trial](https://img.shields.io/badge/START_FREE_TRIAL-No_Payment_Required-success?style=for-the-badge&logo=telegram)](https://t.me/rejerk)
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💝 **Thank You for Choosing ADBOT!**
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://t.me/rejerk)
+[![Powered by Python](https://img.shields.io/badge/Powered%20by-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+
+**⭐ Star this repo if you find it useful!**
+
+---
+
+**© 2025 ADBOT by STEIN. All rights reserved.**
+
+</div>
